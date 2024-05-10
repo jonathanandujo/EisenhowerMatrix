@@ -93,7 +93,15 @@ html, body {
   background: rgb(255, 251, 10);
 }
 
-.deleteButton {
-  margin-left: 10px;
-  border-style: solid;
+.taskText {
+  margin-right: 10px;
+  font-size: 1.1rem;
+}
+
+ol {
+  list-style-type: none;
+}
+
+li {
+  list-style-type: none;
 }
